@@ -1,7 +1,5 @@
 # Aksheen Rathod - Personal Portfolio
 
-![Portfolio Preview](https://placehold.co/1200x630/0f172a/0ea5e9?text=Aksheen+Rathod+-+Software+Engineer)
-
 A modern, highly performant personal portfolio website built to showcase my experience, projects, and skills as a Software Engineer. Designed with a focus on minimalism, clean UI/UX, and seamless animations, this site serves as my digital resume and a centralized hub for my work.
 
 **🌍 Live Site:** [aksheenrathod.com](https://aksheenrathod.com)
