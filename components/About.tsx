@@ -29,7 +29,7 @@ export function About() {
         </div>
 
         <div>
-          <h3 className="text-xl font-bold mb-6">Technologies I work with</h3>
+          <h3 className="text-xl font-bold mb-6">Skills</h3>
           <div className="flex flex-wrap gap-3">
             {skills.map((skill, index) => (
               <motion.span
