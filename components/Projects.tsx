@@ -9,7 +9,7 @@ const projects = [
     title: "Dynamic Flashcard System",
     description: "Built a full-stack adaptive learning platform integrating an FSRS ML model to dynamically schedule flashcards and optimize user memory retention.",
     tags: ["React", "Next.js", "Machine Learning"],
-    link: "https://github.com/aksheen14",
+    link: "https://flashcard-system-three.vercel.app/",
     image: "https://placehold.co/600x400/e2e8f0/64748b?text=Dynamic+Flashcard+System"
   },
   {
@@ -17,7 +17,7 @@ const projects = [
     title: "VisionLen AI",
     description: "Built a real-time OCR web app using Google Gemini 1.5 Flash for camera-based text extraction and AI summarization, with Web Speech API feedback.",
     tags: ["React", "Vite", "Google Gemini"],
-    link: "https://github.com/aksheen14",
+    link: "https://github.com/sathvikcr/Camera-Reader",
     image: "https://placehold.co/600x400/e2e8f0/64748b?text=VisionLen+AI"
   },
   {
