@@ -3,7 +3,7 @@
 import { motion } from "framer-motion";
 
 const skills = [
-  "JavaScript", "TypeScript", "React", "Next.js", "Node.js", "Tailwind CSS", "PostgreSQL", "Git", "Figma"
+  "React", "Next.js", "Python", "TypeScript", "Tailwind CSS", "LLM Integration", "Predictive Modeling", "Deep Learning", "CI/CD", "Vercel", "Project Management", "SEO", "Leadership"
 ];
 
 export function About() {
@@ -18,13 +18,13 @@ export function About() {
         <h2 className="text-3xl font-bold mb-8">About Me</h2>
         <div className="prose prose-slate dark:prose-invert max-w-none text-lg text-slate-600 dark:text-slate-400 leading-relaxed mb-12">
           <p className="mb-4">
-            [Placeholder: Briefly introduce yourself, your educational background, and what drives you. E.g., "I started my journey into software development during my computer science degree..."]
+            I am a Computer Science and Engineering student at the University of California, Merced, with a strong foundation in full-stack web development, machine learning, and human-computer interaction.
           </p>
           <p className="mb-4">
-            [Placeholder: Talk about your current focus. E.g., "Currently, I'm focused on building accessible, human-centered products at [Company]. I enjoy the challenge of bridging the gap between design and engineering."]
+            Currently, I'm focused on building scalable, AI-integrated web applications like dynamic learning platforms and real-time OCR tools. I enjoy bridging the gap between predictive backend algorithms and intuitive frontend interfaces.
           </p>
           <p>
-            [Placeholder: Mention a few hobbies or interests outside of coding. E.g., "When I'm not at the computer, I'm usually hanging out with my friends, reading, or hiking."]
+            Outside of coding, I am highly active on campus, serving as a Founding Board Member for 180 Degrees Consulting and leading choreography as a General Officer for UC Merced Dhamaka.
           </p>
         </div>
 

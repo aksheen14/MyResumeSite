@@ -6,19 +6,27 @@ import { ExternalLink } from "lucide-react";
 const projects = [
   {
     id: 1,
-    title: "E-Commerce Dashboard",
-    description: "A comprehensive admin dashboard for managing products, orders, and customers. Features real-time analytics.",
-    tags: ["Next.js", "Tailwind CSS", "Prisma"],
-    link: "https://example.com",
-    image: "https://placehold.co/600x400/e2e8f0/64748b?text=Project+1"
+    title: "Dynamic Flashcard System",
+    description: "Built a full-stack adaptive learning platform integrating an FSRS ML model to dynamically schedule flashcards and optimize user memory retention.",
+    tags: ["React", "Next.js", "Machine Learning"],
+    link: "https://github.com/aksheen14",
+    image: "https://placehold.co/600x400/e2e8f0/64748b?text=Dynamic+Flashcard+System"
   },
   {
     id: 2,
-    title: "Task Management App",
-    description: "A collaborative task manager with drag-and-drop functionality and real-time updates.",
-    tags: ["React", "Node.js", "Socket.io"],
-    link: "https://example.com",
-    image: "https://placehold.co/600x400/e2e8f0/64748b?text=Project+2"
+    title: "VisionLen AI",
+    description: "Built a real-time OCR web app using Google Gemini 1.5 Flash for camera-based text extraction and AI summarization, with Web Speech API feedback.",
+    tags: ["React", "Vite", "Google Gemini"],
+    link: "https://github.com/aksheen14",
+    image: "https://placehold.co/600x400/e2e8f0/64748b?text=VisionLen+AI"
+  },
+  {
+    id: 3,
+    title: "Portfolio Website",
+    description: "Engineered a frontend platform to consolidate software engineering projects using Next.js and TypeScript, with continuous deployment via Vercel.",
+    tags: ["Next.js", "TypeScript", "Tailwind CSS"],
+    link: "https://aksheenrathod.com",
+    image: "https://placehold.co/600x400/e2e8f0/64748b?text=Portfolio+Website"
   }
 ];
 

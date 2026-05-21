@@ -5,17 +5,24 @@ import { motion } from "framer-motion";
 const experiences = [
   {
     id: 1,
-    role: "Full-Stack Developer",
-    company: "Tech Corp",
-    date: "Jan 2024 - Present",
-    description: "Built scalable web applications using Next.js and Node.js. Improved performance by 30%.",
+    role: "Research Intern - AI Auto Grader",
+    company: "UC Merced",
+    date: "Aug 2023 - Present",
+    description: "Assessed AI evaluation consistency against human grading for Python projects using classification metrics.",
   },
   {
     id: 2,
-    role: "Frontend Developer",
-    company: "Startup Inc",
-    date: "Jun 2022 - Dec 2023",
-    description: "Developed user-facing features with React and Tailwind CSS. Collaborated with designers to ensure pixel-perfect implementation.",
+    role: "Founding Board Member, Outreach Director, Consultant",
+    company: "180 Degrees Consulting",
+    date: "2023 - Present",
+    description: "Delivered presentations to recruit students for consultant roles. Working with clients to gather details, set goals, and meet expectations for an SEO optimization project. Directed meetings and maintained consistent communication.",
+  },
+  {
+    id: 3,
+    role: "General Officer, Team Member",
+    company: "UC Merced Dhamaka",
+    date: "2023 - Present",
+    description: "Acted as liaison between executive board and team, translating directives into actionable tasks while leading choreography and organizing practice logistics.",
   },
 ];
 
