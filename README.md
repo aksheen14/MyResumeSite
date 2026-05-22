@@ -26,29 +26,6 @@ This project is built with a modern, scalable frontend architecture:
 - **Interactive UI:** Smooth scroll mechanics and micro-interactions powered by Framer Motion to create an engaging user experience.
 - **Clean Architecture:** Modular, reusable component design reflecting industry best practices for frontend engineering.
 
-## 💻 Running Locally
-
-If you'd like to clone this repository and run it locally, follow these steps:
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/aksheen14/MyResumeSite.git
-   ```
-2. **Navigate to the directory:**
-   ```bash
-   cd MyResumeSite
-   ```
-3. **Install dependencies:**
-   ```bash
-   npm install
-   ```
-4. **Start the development server:**
-   ```bash
-   npm run dev
-   ```
-5. **View the site:**
-   Open [http://localhost:3000](http://localhost:3000) in your browser.
-
 ## 📬 Let's Connect
 
 I'm currently focused on building scalable, AI-integrated web applications. If you're interested in collaborating or want to chat about a role, feel free to reach out!
